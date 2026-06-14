@@ -1,0 +1,9 @@
+[
+  {
+    "id":1,
+    "name":"AtCoder Task Navigator",
+    "description":"In AtCoder contests, you can navigate between problems using the arrow keys or buttons.",
+    "url":"https://greasyfork.org/ja/scripts/582590-atcoder-task-navigator",
+    "version":"1.0.0"
+  }
+]
