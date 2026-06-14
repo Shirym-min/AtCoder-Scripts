@@ -4,6 +4,13 @@
     "name":"AtCoder Task Navigator",
     "description":"In AtCoder contests, you can navigate between problems using the arrow keys or buttons.",
     "url":"https://greasyfork.org/ja/scripts/582590-atcoder-task-navigator",
-    "version":"1.0.0"
+    "version":"v1.0.0"
+  },
+  {
+    "id":1,
+    "name":"AtCoder Rank Overlay",
+    "description":"During AtCoder contests, your current ranking and points scored are displayed in the bottom-left corner at all times. The display is automatically updated every 30 seconds.",
+    "url":"https://greasyfork.org/ja/scripts/582618-atcoder-rank-overlay",
+    "version":"v1.0.0"
   }
 ]
